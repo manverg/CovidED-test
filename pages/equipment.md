@@ -2,7 +2,7 @@
 
 ## HAMILTON
 
-* [Hamilton Training videos](hamiltonT1.md)
+* [Hamilton Training videos](hamiltonT1.md/#hamilton-training-videos)
 
 * [Covid NIV Adult - James](https://www.youtube.com/watch?v=-M0KCggp1Lw&feature=youtu.be)
 
